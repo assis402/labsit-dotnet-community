@@ -7,4 +7,4 @@
 - **28/02/2022** -
 
 ### Informações sobre os objetivos 
-- [AZ-900](https://github.com/assis402/labsit-dotnet-community/blob/main/objetivos/AZ-900.md)
+- [Certificação AZ-900](https://github.com/assis402/labsit-dotnet-community/blob/main/objetivos/AZ-900.md)
