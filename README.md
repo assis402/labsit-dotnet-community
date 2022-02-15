@@ -7,5 +7,5 @@
 - **28/02/2022** -
 
 ### Informações sobre os objetivos 
-- [AZ-900](http://pandoc.org/)
-- [AZ-204](http://pandoc.org/)
+- [AZ-900](https://github.com/assis402/labsit-dotnet-community/blob/main/objetivos/AZ-900.md)
+- [AZ-204](https://github.com/assis402/labsit-dotnet-community/blob/main/objetivos/AZ-204.md)
